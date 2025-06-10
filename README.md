@@ -75,31 +75,4 @@ The compressor consists of the following Python modules:
    * **Input**: `my_text.huff`
    * **Output**: `my_text_restored.txt` — should exactly match the original
 
-5. **Verify integrity** (optional):
 
-   ```bash
-   diff my_text.txt my_text_restored.txt
-   ```
-
----
-
-*Leave space above to insert actual performance numbers and verification details.*
-
----
-
-## Markdown Formatting Tips
-
-You can emphasize or “highlight” words in GitHub README files using various methods:
-
-* **Bold**: `**bold text**` → **bold text**
-* *Italic*: `*italic text*` → *italic text*
-* `Inline code`: `` `code` `` → `code`
-* Highlight (GitHub supports HTML): `<mark>highlighted text</mark>` → <mark>highlighted text</mark>
-
-Example:
-
-```markdown
-This is **bold**, this is *italic*, and this is <mark>highlighted</mark>.
-```
-
-Use these syntaxes to draw attention to important words or phrases in your README.
