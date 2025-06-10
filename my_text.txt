@@ -1,0 +1,14 @@
+The quick brown fox jumps over the lazy dog.
+Huffman coding is a lossless data compression algorithm.
+It assigns variable-length codes to input characters,
+with shorter codes for more frequent characters.
+
+This sample text contains repeated words and phrases
+to give the compressor something to work on.
+Feel free to replace it with any other plain-text content
+— poems, logs, source code, whatever you like!
+
+Once saved, run:
+    python compress.py my_text.txt my_text.huff
+then:
+    python decompress.py my_text.huff my_text_restored.txt
