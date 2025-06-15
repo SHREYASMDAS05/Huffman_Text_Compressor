@@ -16,9 +16,7 @@ Below are placeholder results from sample tests on various text files. Replace t
 
 | File Name   | Original Size (bytes) | Compressed Size (bytes) | Compression Rate |
 | ----------- | --------------------- | ----------------------- | ---------------- |
-| sample1.txt | —                     | —                       | —%               |
-| sample2.txt | —                     | —                       | —%               |
-| sample3.txt | —                     | —                       | —%               |
+| sample1.txt | 556 bytes             | 751 bytes               | -35.07%          |
 
 ### Decompressibility
 
